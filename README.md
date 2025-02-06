@@ -52,6 +52,11 @@ Perform calculation based on user's choice:  <br/>
 <br />
 Display the result if operation was valid:  <br/>
 <img src="https://i.imgur.com/qAp3Gv8.png" height="80%" width="80%" alt="Simple calculator steps"/>
+<br />
+<br />
+Example run: <br/>
+<img src="https://i.imgur.com/iwsmEpR.png" height="80%" width="80%" alt="Simple calculator steps"/>
+  
 
 
   
